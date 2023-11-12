@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallavi525
+- 👋 Hi, I’m Pallavi
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development
 - Ask me about Html, CSS, Javascript, React, Node, Express, MongoDB
